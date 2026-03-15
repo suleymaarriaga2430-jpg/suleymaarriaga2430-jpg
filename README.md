@@ -17,7 +17,14 @@
 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+---
+## 🛠 Tecnologías y herramientas
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 ## 📚 Actualmente aprendiendo
 
@@ -40,3 +47,6 @@
 ---
 
 ⭐ Gracias por visitar mi perfil
+
+![snake gif](https://github.com/suleymaarriaga2430-jpg/suleymaarriaga2430-jpg/blob/output/github-contribution-grid-snake.svg)
+![Profile views](https://komarev.com/ghpvc/?username=suleymaarriaga2430-jpg&color=blue)
