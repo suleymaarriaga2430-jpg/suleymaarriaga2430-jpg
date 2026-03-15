@@ -48,5 +48,4 @@
 
 ⭐ Gracias por visitar mi perfil
 
-![snake gif](https://github.com/suleymaarriaga2430-jpg/suleymaarriaga2430-jpg/blob/output/github-contribution-grid-snake.svg)
 ![Profile views](https://komarev.com/ghpvc/?username=suleymaarriaga2430-jpg&color=blue)
