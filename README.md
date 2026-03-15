@@ -15,12 +15,16 @@
 
 ---
 
-## 🛠 Tecnologías
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
 
 ---
+## 📚 Actualmente aprendiendo
 
+- React
+- Bases de datos
+- Desarrollo de software
+---
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymaarriaga2430-jpg&show_icons=true&theme=tokyonight)
