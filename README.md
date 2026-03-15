@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola 👋 Soy Sule
 
-<!--
-**suleymaarriaga2430-jpg/suleymaarriaga2430-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería en Computación  
+📊 Interesada en tecnología, datos y desarrollo de software  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+
+📊 Excel avanzado  
+💻 Programación  
+🗄 Bases de datos  
+🌐 Desarrollo web  
+🔧 Git y GitHub  
+
+---
+
+## 🛠 Tecnologías
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymaarriaga2430-jpg&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymaarriaga2430-jpg&layout=compact)
+
+---
+
+## 🌟 Proyectos
+
+🔹 Página de motivación con React  
+
+---
+
+⭐ Gracias por visitar mi perfil
